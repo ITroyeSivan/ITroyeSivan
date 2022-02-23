@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Troy3e
-- 👀 I’m a CTFWeber and feiwu
+- 👋 CTF、代码审计、漏洞挖掘
 
 <!---
 ITroyeSivan/ITroyeSivan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
