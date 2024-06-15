@@ -1,4 +1,6 @@
-- 👋 CTF、代码审计、漏洞挖掘
+- 👋Web Security
+- 🏫Postgraduate student majoring in cybersecurity
+- 🐧MTIyMDEwMTY2OA==
 
 <!---
 ITroyeSivan/ITroyeSivan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
